@@ -1,0 +1,2149 @@
+[
+  {
+    "id": "9cf6b924-6ce8-4378-8e15-08e6411342ca",
+    "data": "22/10/2025",
+    "sala": "Sala Grande",
+    "horario": "08:00-17:00",
+    "responsavel": "Lucas - Licitações",
+    "usuario": "lucaslicitacoes_59579",
+    "avatar": "https://cdn.discordapp.com/embed/avatars/1.png"
+  },
+  {
+    "id": "25d5a977-2c48-4e9b-859d-407a5ac3901e",
+    "data": "23/10/2025",
+    "sala": "Sala Grande",
+    "horario": "08:00-17:00",
+    "responsavel": "Lucas - Licitações",
+    "usuario": "lucaslicitacoes_59579",
+    "avatar": "https://cdn.discordapp.com/embed/avatars/1.png"
+  },
+  {
+    "id": "4126fca1-afed-4fbe-b110-9b146b7699cf",
+    "data": "24/10/2025",
+    "sala": "Sala Grande",
+    "horario": "08:00-17:00",
+    "responsavel": "Lucas - Licitações",
+    "usuario": "lucaslicitacoes_59579",
+    "avatar": "https://cdn.discordapp.com/embed/avatars/1.png"
+  },
+  {
+    "id": "aa01ca0e-db3e-41cf-9115-7e0069b57692",
+    "data": "03/09/2025",
+    "sala": "Sala Grande",
+    "horario": "10:30-11:00",
+    "responsavel": "Yuri | Financeiro",
+    "usuario": "yurifinanceiro",
+    "participantes": [
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      }
+    ],
+    "status": "Aprovado",
+    "avatar": "https://cdn.discordapp.com/embed/avatars/5.png",
+    "aprovacoes": {
+      "1345500989855367220": "Aprovado"
+    },
+    "notificado1d": false,
+    "notificado1h": false
+  },
+  {
+    "id": "92b74d11-cefc-48ea-ba11-9ac1dddc8228",
+    "data": "03/09/2025",
+    "sala": "Sala Grande",
+    "horario": "13:30-15:30",
+    "responsavel": "Yuri | Financeiro",
+    "usuario": "yurifinanceiro",
+    "participantes": [
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      },
+      {
+        "id": "1380190554700386395",
+        "tag": "victorabouhatem_63511",
+        "username": "victorabouhatem_63511"
+      },
+      {
+        "id": "1384572666752663653",
+        "tag": "analise.de.dados",
+        "username": "analise.de.dados"
+      },
+      {
+        "id": "1294358148634775592",
+        "tag": "rosinaldo02",
+        "username": "rosinaldo02"
+      },
+      {
+        "id": "1260583577528303730",
+        "tag": "iurysilv4_62097",
+        "username": "iurysilv4_62097"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/embed/avatars/5.png",
+    "presencas": {
+      "1345500989855367220": "Confirmada",
+      "1260583577528303730": "Confirmada",
+      "1380190554700386395": "Confirmada"
+    },
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "88151b07-7a16-4abb-a694-9e3cf0c4f938",
+    "data": "04/09/2025",
+    "sala": "Sala Grande",
+    "horario": "10:00-12:00",
+    "responsavel": "Yuri | Financeiro",
+    "usuario": "yurifinanceiro",
+    "participantes": [
+      {
+        "id": "1372292210338304181",
+        "tag": "fernanda_90661_22678",
+        "username": "fernanda_90661_22678"
+      },
+      {
+        "id": "1374068204917227573",
+        "tag": "helenanascimentoadm",
+        "username": "helenanascimentoadm"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/embed/avatars/5.png",
+    "presencas": {
+      "1374068204917227573": "Confirmada",
+      "1372292210338304181": "Confirmada"
+    },
+    "notificado1d": true,
+    "notificado1h": false
+  },
+  {
+    "id": "1242b38b-f987-4977-935b-7ae3c2e71067",
+    "data": "04/09/2025",
+    "sala": "Sala Menor",
+    "horario": "14:00-15:00",
+    "responsavel": "José Ferreira - Faturamento",
+    "usuario": "josefaturamento1",
+    "participantes": [
+      {
+        "id": "1294346473311309956",
+        "tag": "alessandra_vargas",
+        "username": "alessandra_vargas"
+      },
+      {
+        "id": "1294343174092754960",
+        "tag": "tainarahagg",
+        "username": "tainarahagg"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+    "presencas": {
+      "1294343174092754960": "Confirmada"
+    },
+    "notificado1d": true,
+    "notificado1h": false
+  },
+  {
+    "id": "8a2c7fc5-1027-4252-a0b9-77b3958d6b62",
+    "data": "18/09/2025",
+    "sala": "Sala Grande",
+    "horario": "14:00-15:00",
+    "responsavel": "Lucas - Licitações",
+    "usuario": "lucaslicitacoes_59579",
+    "participantes": [
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      },
+      {
+        "id": "1384572666752663653",
+        "tag": "analise.de.dados",
+        "username": "analise.de.dados"
+      },
+      {
+        "id": "1374358063175434340",
+        "tag": "cleidircompras",
+        "username": "cleidircompras"
+      },
+      {
+        "id": "1374456245087633531",
+        "tag": "lucaslicitacoes_59579",
+        "username": "lucaslicitacoes_59579"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/embed/avatars/1.png",
+    "presencas": {
+      "1345500989855367220": "Confirmada",
+      "1374358063175434340": "Confirmada",
+      "1374456245087633531": "Confirmada"
+    },
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "23d85580-297d-4e9d-9e12-c27fa42e13b0",
+    "data": "05/09/2025",
+    "sala": "Sala Grande",
+    "horario": "15:00-16:00",
+    "responsavel": "José Ferreira - Faturamento",
+    "usuario": "josefaturamento1",
+    "participantes": [
+      {
+        "id": "1374792435523125380",
+        "tag": "yurifinanceiro",
+        "username": "yurifinanceiro"
+      },
+      {
+        "id": "1374806437229891775",
+        "tag": "ruanlopesnfe",
+        "username": "ruanlopesnfe"
+      },
+      {
+        "id": "1375123698352259137",
+        "tag": "renanfaturamento",
+        "username": "renanfaturamento"
+      },
+      {
+        "id": "1374800510829203557",
+        "tag": "ericasouzafinanceiro",
+        "username": "ericasouzafinanceiro"
+      },
+      {
+        "id": "1374796004544614460",
+        "tag": "carolineprisco",
+        "username": "carolineprisco"
+      },
+      {
+        "id": "1387405831229935667",
+        "tag": "alessandrafinanceiro1",
+        "username": "alessandrafinanceiro1"
+      },
+      {
+        "id": "1374808180697202778",
+        "tag": "analuizafaleiro",
+        "username": "analuizafaleiro"
+      },
+      {
+        "id": "1374804355978625214",
+        "tag": "gustavobarcelosnfe",
+        "username": "gustavobarcelosnfe"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+    "presencas": {
+      "1374806437229891775": "Confirmada",
+      "1374800510829203557": "Confirmada",
+      "1374808180697202778": "Confirmada",
+      "1374796004544614460": "Confirmada",
+      "1374804355978625214": "Confirmada",
+      "1374792435523125380": "Confirmada",
+      "1387405831229935667": "Confirmada",
+      "1375123698352259137": "Confirmada"
+    },
+    "notificado1h": true,
+    "notificado1d": false
+  },
+  {
+    "id": "84e53dae-0d25-457a-b024-f26d404faeb7",
+    "data": "08/09/2025",
+    "sala": "Sala Menor",
+    "horario": "14:00-15:00",
+    "responsavel": "Eduardo | Sistemas",
+    "usuario": "analise.de.dados",
+    "participantes": [
+      {
+        "id": "1384572666752663653",
+        "tag": "analise.de.dados",
+        "username": "analise.de.dados"
+      },
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/avatars/1384572666752663653/fabb81f44b01ca65cf1cca0291e437b2.webp",
+    "presencas": {
+      "1345500989855367220": "Confirmada",
+      "1384572666752663653": "Confirmada"
+    },
+    "titulo": "Reunião Senior - API",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "d320a762-0479-4b15-97bf-5e67994b8ce5",
+    "data": "08/09/2025",
+    "sala": "Sala Menor",
+    "horario": "15:00-15:30",
+    "responsavel": "Fernanda | Diretoria",
+    "usuario": "fernanda_90661_22678",
+    "participantes": [
+      {
+        "id": "1374796004544614460",
+        "tag": "carolineprisco",
+        "username": "carolineprisco"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/avatars/1372292210338304181/6713212699a1203e1c940eb06c11c415.webp",
+    "presencas": {
+      "1374796004544614460": "Confirmada"
+    },
+    "titulo": "Entrevista processo Seletivo gerente financeiro",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "d674eada-af7c-4c3c-a3c7-9fa735445015",
+    "data": "08/09/2025",
+    "sala": "Sala Menor",
+    "horario": "15:30-16:00",
+    "responsavel": "Fernanda | Diretoria",
+    "usuario": "fernanda_90661_22678",
+    "participantes": [
+      {
+        "id": "1374804355978625214",
+        "tag": "gustavobarcelosnfe",
+        "username": "gustavobarcelosnfe"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/avatars/1372292210338304181/6713212699a1203e1c940eb06c11c415.webp",
+    "presencas": {
+      "1374804355978625214": "Confirmada"
+    },
+    "titulo": "Entrevista Processo Seletivo Gerente Financeiro",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "bac2cab0-2e0c-4ed8-b5af-9ef3fdd4d640",
+    "data": "08/09/2025",
+    "sala": "Sala Menor",
+    "horario": "16:00-16:30",
+    "responsavel": "Fernanda | Diretoria",
+    "usuario": "fernanda_90661_22678",
+    "participantes": [
+      {
+        "id": "1374806437229891775",
+        "tag": "ruanlopesnfe",
+        "username": "ruanlopesnfe"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/avatars/1372292210338304181/6713212699a1203e1c940eb06c11c415.webp",
+    "presencas": {
+      "1374806437229891775": "Confirmada"
+    },
+    "titulo": "Entrevista Processo seletivo gerente financeiro",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "1df10d4b-adf5-4656-b999-e651256469a9",
+    "data": "10/09/2025",
+    "sala": "Sala Grande",
+    "horario": "09:00-11:00",
+    "responsavel": "Yuri | Financeiro",
+    "usuario": "yurifinanceiro",
+    "participantes": [
+      {
+        "id": "1372292210338304181",
+        "tag": "fernanda_90661_22678",
+        "username": "fernanda_90661_22678"
+      },
+      {
+        "id": "1384572666752663653",
+        "tag": "analise.de.dados",
+        "username": "analise.de.dados"
+      },
+      {
+        "id": "1374068204917227573",
+        "tag": "helenanascimentoadm",
+        "username": "helenanascimentoadm"
+      },
+      {
+        "id": "1260583577528303730",
+        "tag": "iurysilv4_62097",
+        "username": "iurysilv4_62097"
+      },
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      },
+      {
+        "id": "1294358148634775592",
+        "tag": "rosinaldo02",
+        "username": "rosinaldo02"
+      },
+      {
+        "id": "1374792435523125380",
+        "tag": "yurifinanceiro",
+        "username": "yurifinanceiro"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/embed/avatars/5.png",
+    "presencas": {
+      "1294358148634775592": "Confirmada",
+      "1384572666752663653": "Confirmada",
+      "1374792435523125380": "Confirmada",
+      "1345500989855367220": "Confirmada",
+      "1260583577528303730": "Confirmada",
+      "1374068204917227573": "Reprovada"
+    },
+    "titulo": "Diretoria, Presidência e Controladoria.",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "0ec84cba-6e64-4a65-af98-389e9cb30d8c",
+    "data": "11/09/2025",
+    "sala": "Sala Grande",
+    "horario": "13:30-16:30",
+    "responsavel": "Yuri | Financeiro",
+    "usuario": "yurifinanceiro",
+    "participantes": [
+      {
+        "id": "1372292210338304181",
+        "tag": "fernanda_90661_22678",
+        "username": "fernanda_90661_22678"
+      },
+      {
+        "id": "1374068204917227573",
+        "tag": "helenanascimentoadm",
+        "username": "helenanascimentoadm"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/embed/avatars/5.png",
+    "presencas": {
+      "1374068204917227573": "Reprovada"
+    },
+    "titulo": "Sicredi",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "b5a9b7bc-9bfe-4ccb-8f87-432468892492",
+    "data": "17/09/2025",
+    "sala": "Sala Grande",
+    "horario": "09:00-11:00",
+    "responsavel": "Pablo | Sistemas",
+    "usuario": "pabloseniorr",
+    "participantes": [],
+    "status": "Cancelada",
+    "avatar": "https://cdn.discordapp.com/avatars/1345500989855367220/900333c0b705822df85c59ebe1666795.webp",
+    "presencas": {},
+    "titulo": "teste"
+  },
+  {
+    "id": "3229dbc8-ccff-499e-b09f-f809dabfe92f",
+    "data": "12/09/2025",
+    "sala": "Sala Grande",
+    "horario": "13:30-15:00",
+    "responsavel": "Yuri | Financeiro",
+    "usuario": "yurifinanceiro",
+    "participantes": [
+      {
+        "id": "1372292210338304181",
+        "tag": "fernanda_90661_22678",
+        "username": "fernanda_90661_22678"
+      },
+      {
+        "id": "1384572666752663653",
+        "tag": "analise.de.dados",
+        "username": "analise.de.dados"
+      },
+      {
+        "id": "1374068204917227573",
+        "tag": "helenanascimentoadm",
+        "username": "helenanascimentoadm"
+      },
+      {
+        "id": "1260583577528303730",
+        "tag": "iurysilv4_62097",
+        "username": "iurysilv4_62097"
+      },
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      },
+      {
+        "id": "1294358148634775592",
+        "tag": "rosinaldo02",
+        "username": "rosinaldo02"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/embed/avatars/5.png",
+    "presencas": {
+      "1260583577528303730": "Confirmada",
+      "1345500989855367220": "Confirmada",
+      "1384572666752663653": "Confirmada",
+      "1294358148634775592": "Confirmada",
+      "1374068204917227573": "Reprovada"
+    },
+    "titulo": "Controladoria",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "6ac8b650-b359-4816-ad4b-312661594079",
+    "data": "11/09/2025",
+    "sala": "Sala Grande",
+    "horario": "10:00-11:00",
+    "responsavel": "Yuri | Financeiro",
+    "usuario": "yurifinanceiro",
+    "participantes": [
+      {
+        "id": "1295431424542900284",
+        "tag": "juridico001_88267",
+        "username": "juridico001_88267"
+      },
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      },
+      {
+        "id": "1374792435523125380",
+        "tag": "yurifinanceiro",
+        "username": "yurifinanceiro"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/embed/avatars/5.png",
+    "presencas": {
+      "1295431424542900284": "Confirmada",
+      "1374792435523125380": "Confirmada"
+    },
+    "titulo": "Controladoria-Jurídico",
+    "notificado1d": false,
+    "notificado1h": false
+  },
+  {
+    "id": "3cc09b8b-ceea-4174-8c2b-0724741593bd",
+    "data": "11/09/2025",
+    "sala": "Sala Grande",
+    "horario": "11:00-12:00",
+    "responsavel": "Yuri | Financeiro",
+    "usuario": "yurifinanceiro",
+    "participantes": [
+      {
+        "id": "1384572666752663653",
+        "tag": "analise.de.dados",
+        "username": "analise.de.dados"
+      },
+      {
+        "id": "1372292210338304181",
+        "tag": "fernanda_90661_22678",
+        "username": "fernanda_90661_22678"
+      },
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      },
+      {
+        "id": "1294358148634775592",
+        "tag": "rosinaldo02",
+        "username": "rosinaldo02"
+      },
+      {
+        "id": "1374068204917227573",
+        "tag": "helenanascimentoadm",
+        "username": "helenanascimentoadm"
+      },
+      {
+        "id": "1260583577528303730",
+        "tag": "iurysilv4_62097",
+        "username": "iurysilv4_62097"
+      },
+      {
+        "id": "1374792435523125380",
+        "tag": "yurifinanceiro",
+        "username": "yurifinanceiro"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/embed/avatars/5.png",
+    "presencas": {
+      "1260583577528303730": "Confirmada",
+      "1294358148634775592": "Confirmada",
+      "1374792435523125380": "Confirmada",
+      "1372292210338304181": "Confirmada",
+      "1345500989855367220": "Confirmada",
+      "1384572666752663653": "Confirmada",
+      "1374068204917227573": "Reprovada"
+    },
+    "titulo": "Controladoria, Diretoria e Presidência.",
+    "notificado1h": true,
+    "notificado1d": false
+  },
+  {
+    "id": "e4a86440-4019-43b8-876a-6f0e09285466",
+    "data": "18/09/2025",
+    "sala": "Sala Grande",
+    "horario": "10:00-11:00",
+    "responsavel": "Pablo | Sistemas",
+    "usuario": "pabloseniorr",
+    "participantes": [
+      {
+        "id": "1384572666752663653",
+        "tag": "analise.de.dados",
+        "username": "analise.de.dados"
+      },
+      {
+        "id": "1374068204917227573",
+        "tag": "helenanascimentoadm",
+        "username": "helenanascimentoadm"
+      },
+      {
+        "id": "1294358148634775592",
+        "tag": "rosinaldo02",
+        "username": "rosinaldo02"
+      },
+      {
+        "id": "1260583577528303730",
+        "tag": "iurysilv4_62097",
+        "username": "iurysilv4_62097"
+      },
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/avatars/1345500989855367220/900333c0b705822df85c59ebe1666795.webp",
+    "presencas": {
+      "1345500989855367220": "Confirmada",
+      "1260583577528303730": "Confirmada",
+      "1384572666752663653": "Confirmada",
+      "1374068204917227573": "Confirmada"
+    },
+    "titulo": "Reunião Semanal Controladoria",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "93ba9989-9bc1-43f3-9268-6267860a9cb6",
+    "data": "23/09/2025",
+    "sala": "Sala Grande",
+    "horario": "15:00-16:00",
+    "responsavel": "Pablo | Sistemas",
+    "usuario": "pabloseniorr",
+    "participantes": [
+      {
+        "id": "1384572666752663653",
+        "tag": "analise.de.dados",
+        "username": "analise.de.dados"
+      },
+      {
+        "id": "1374456245087633531",
+        "tag": "lucaslicitacoes_59579",
+        "username": "lucaslicitacoes_59579"
+      },
+      {
+        "id": "1374452323308540015",
+        "tag": "renatinholicitacoes",
+        "username": "renatinholicitacoes"
+      },
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/avatars/1345500989855367220/900333c0b705822df85c59ebe1666795.webp",
+    "presencas": {
+      "1345500989855367220": "Confirmada",
+      "1384572666752663653": "Confirmada",
+      "1374452323308540015": "Confirmada"
+    },
+    "titulo": "Reunião de Alinhamento - Controladoria - Licitações",
+    "notificado1h": true,
+    "notificado1d": false
+  },
+  {
+    "id": "05b28290-d585-44dc-9b06-bfbff8bdba0e",
+    "data": "25/09/2025",
+    "sala": "Sala Grande",
+    "horario": "11:00-12:00",
+    "responsavel": "Pablo | Sistemas",
+    "usuario": "pabloseniorr",
+    "participantes": [
+      {
+        "id": "1384572666752663653",
+        "tag": "analise.de.dados",
+        "username": "analise.de.dados"
+      },
+      {
+        "id": "1374068204917227573",
+        "tag": "helenanascimentoadm",
+        "username": "helenanascimentoadm"
+      },
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      },
+      {
+        "id": "1260583577528303730",
+        "tag": "iurysilv4_62097",
+        "username": "iurysilv4_62097"
+      },
+      {
+        "id": "1294358148634775592",
+        "tag": "rosinaldo02",
+        "username": "rosinaldo02"
+      },
+      {
+        "id": "1374792435523125380",
+        "tag": "yurifinanceiro",
+        "username": "yurifinanceiro"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/avatars/1345500989855367220/900333c0b705822df85c59ebe1666795.webp",
+    "presencas": {
+      "1260583577528303730": "Confirmada",
+      "1384572666752663653": "Confirmada",
+      "1345500989855367220": "Confirmada",
+      "1374792435523125380": "Confirmada",
+      "1294358148634775592": "Confirmada"
+    },
+    "titulo": "REUNIÃO SEMANAL - DIREÇÃO | CONTROLADORIA",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "ecc871d2-0e5a-45dd-ae80-10ccce548567",
+    "data": "01/10/2025",
+    "sala": "Sala Grande",
+    "horario": "11:00-12:00",
+    "responsavel": "Pablo | Sistemas",
+    "usuario": "pabloseniorr",
+    "participantes": [
+      {
+        "id": "1384572666752663653",
+        "tag": "analise.de.dados",
+        "username": "analise.de.dados"
+      },
+      {
+        "id": "1260583577528303730",
+        "tag": "iurysilv4_62097",
+        "username": "iurysilv4_62097"
+      },
+      {
+        "id": "1374068204917227573",
+        "tag": "helenanascimentoadm",
+        "username": "helenanascimentoadm"
+      },
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      },
+      {
+        "id": "1294358148634775592",
+        "tag": "rosinaldo02",
+        "username": "rosinaldo02"
+      },
+      {
+        "id": "1374792435523125380",
+        "tag": "yurifinanceiro",
+        "username": "yurifinanceiro"
+      }
+    ],
+    "status": "Cancelada",
+    "avatar": "https://cdn.discordapp.com/avatars/1345500989855367220/900333c0b705822df85c59ebe1666795.webp",
+    "presencas": {
+      "1384572666752663653": "Confirmada",
+      "1345500989855367220": "Confirmada",
+      "1260583577528303730": "Confirmada",
+      "1374792435523125380": "Confirmada"
+    },
+    "titulo": "REUNIÃO SEMANAL - DIREÇÃO | CONTROLADORIA",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "e88bcf98-43fd-4023-a8a1-033e38713e4f",
+    "data": "08/10/2025",
+    "sala": "Sala Grande",
+    "horario": "11:00-12:00",
+    "responsavel": "Pablo | Sistemas",
+    "usuario": "pabloseniorr",
+    "participantes": [
+      {
+        "id": "1384572666752663653",
+        "tag": "analise.de.dados",
+        "username": "analise.de.dados"
+      },
+      {
+        "id": "1374068204917227573",
+        "tag": "helenanascimentoadm",
+        "username": "helenanascimentoadm"
+      },
+      {
+        "id": "1294358148634775592",
+        "tag": "rosinaldo02",
+        "username": "rosinaldo02"
+      },
+      {
+        "id": "1260583577528303730",
+        "tag": "iurysilv4_62097",
+        "username": "iurysilv4_62097"
+      },
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      },
+      {
+        "id": "1374792435523125380",
+        "tag": "yurifinanceiro",
+        "username": "yurifinanceiro"
+      }
+    ],
+    "status": "Cancelada",
+    "avatar": "https://cdn.discordapp.com/avatars/1345500989855367220/900333c0b705822df85c59ebe1666795.webp",
+    "presencas": {
+      "1345500989855367220": "Confirmada",
+      "1260583577528303730": "Confirmada",
+      "1374792435523125380": "Confirmada",
+      "1384572666752663653": "Confirmada"
+    },
+    "titulo": "REUNIÃO SEMANAL | DIREÇÃO - CONTROLADORIA",
+    "notificado1d": true
+  },
+  {
+    "id": "e4102bb9-df14-4a69-a072-930b94c13574",
+    "data": "24/09/2025",
+    "sala": "Sala Grande",
+    "horario": "19:00-20:00",
+    "responsavel": "Pablo | Sistemas",
+    "responsavelId": "1345500989855367220",
+    "usuario": "pabloseniorr",
+    "usuarioId": "1345500989855367220",
+    "participantes": [
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      }
+    ],
+    "status": "Cancelada",
+    "avatar": "https://cdn.discordapp.com/avatars/1345500989855367220/900333c0b705822df85c59ebe1666795.webp",
+    "presencas": {
+      "1345500989855367220": "Confirmada"
+    },
+    "titulo": "teste",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "8cd01033-190b-486f-86bb-4d5c2bd36751",
+    "data": "24/09/2025",
+    "sala": "Sala Grande",
+    "horario": "21:00-22:00",
+    "responsavel": "Pablo | Sistemas",
+    "responsavelId": "1345500989855367220",
+    "usuario": "pabloseniorr",
+    "usuarioId": "1345500989855367220",
+    "participantes": [
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      }
+    ],
+    "status": "Cancelada",
+    "avatar": "https://cdn.discordapp.com/avatars/1345500989855367220/900333c0b705822df85c59ebe1666795.webp",
+    "presencas": {
+      "1345500989855367220": "Confirmada"
+    },
+    "titulo": "teste",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "a8721824-3294-4574-8bac-b00a86aa7157",
+    "data": "24/09/2025",
+    "sala": "Sala Grande",
+    "horario": "22:00-23:00",
+    "responsavel": "Pablo | Sistemas",
+    "responsavelId": "1345500989855367220",
+    "usuario": "pabloseniorr",
+    "usuarioId": "1345500989855367220",
+    "participantes": [
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      }
+    ],
+    "status": "Cancelada",
+    "avatar": "https://cdn.discordapp.com/avatars/1345500989855367220/900333c0b705822df85c59ebe1666795.webp",
+    "presencas": {
+      "1345500989855367220": "Confirmada"
+    },
+    "titulo": "teste",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "5fae596f-59a8-4f6a-a736-1b1a6070aa49",
+    "data": "26/09/2025",
+    "sala": "Sala Grande",
+    "horario": "12:00-13:00",
+    "responsavel": "Pablo | Sistemas",
+    "responsavelId": "1345500989855367220",
+    "usuario": "pabloseniorr",
+    "usuarioId": "1345500989855367220",
+    "participantes": [
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      }
+    ],
+    "status": "Cancelada",
+    "avatar": "https://cdn.discordapp.com/avatars/1345500989855367220/900333c0b705822df85c59ebe1666795.webp",
+    "presencas": {},
+    "titulo": "teste",
+    "notificado1d": true
+  },
+  {
+    "id": "95d679e5-f654-4a22-9c67-54835ef0bd34",
+    "data": "29/09/2025",
+    "sala": "Sala Grande",
+    "horario": "03:00-04:00",
+    "responsavel": "Pablo | Sistemas",
+    "responsavelId": "1345500989855367220",
+    "usuario": "pabloseniorr",
+    "usuarioId": "1345500989855367220",
+    "participantes": [
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      }
+    ],
+    "status": "Cancelada",
+    "avatar": "https://cdn.discordapp.com/avatars/1345500989855367220/900333c0b705822df85c59ebe1666795.webp",
+    "presencas": {},
+    "titulo": "etstewtsedesweg",
+    "notificado1d": true
+  },
+  {
+    "id": "9bf3651d-7cc8-4325-b62e-c7fb9d4c0772",
+    "data": "24/09/2025",
+    "sala": "Sala Grande",
+    "horario": "11:00-12:00",
+    "responsavel": "Pablo | Sistemas",
+    "usuario": "pabloseniorr",
+    "participantes": [
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      }
+    ],
+    "status": "Cancelada",
+    "avatar": "https://cdn.discordapp.com/avatars/1345500989855367220/900333c0b705822df85c59ebe1666795.webp",
+    "presencas": {
+      "1345500989855367220": "Confirmada"
+    },
+    "titulo": "teste",
+    "notificado1d": false,
+    "notificado1h": false
+  },
+  {
+    "id": "3cf9982d-0430-40e1-929a-1a3a6cd2e2b9",
+    "data": "25/09/2025",
+    "sala": "Sala Grande",
+    "horario": "19:00-20:00",
+    "responsavel": "Pablo | Sistemas",
+    "usuario": "pabloseniorr",
+    "participantes": [
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      }
+    ],
+    "status": "Cancelada",
+    "avatar": "https://cdn.discordapp.com/avatars/1345500989855367220/900333c0b705822df85c59ebe1666795.webp",
+    "presencas": {
+      "1345500989855367220": "Confirmada"
+    },
+    "titulo": "teste",
+    "notificado1d": true
+  },
+  {
+    "id": "f9eb6849-e1b9-49c4-89a8-183262147114",
+    "data": "27/09/2025",
+    "sala": "Sala Grande",
+    "horario": "13:00-14:00",
+    "responsavel": "Pablo | Sistemas",
+    "usuario": "pabloseniorr",
+    "participantes": [
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      }
+    ],
+    "status": "Cancelada",
+    "avatar": "https://cdn.discordapp.com/avatars/1345500989855367220/900333c0b705822df85c59ebe1666795.webp",
+    "presencas": {
+      "1345500989855367220": "Confirmada"
+    },
+    "titulo": "teste",
+    "notificado1d": true
+  },
+  {
+    "id": "26aa4015-b0ff-447b-8c02-aba628b3176d",
+    "data": "30/09/2025",
+    "sala": "Sala Grande",
+    "horario": "12:00-13:00",
+    "responsavel": "Pablo | Sistemas",
+    "usuario": "pabloseniorr",
+    "participantes": [
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      }
+    ],
+    "status": "Cancelada",
+    "avatar": "https://cdn.discordapp.com/avatars/1345500989855367220/900333c0b705822df85c59ebe1666795.webp",
+    "presencas": {
+      "1345500989855367220": "Confirmada"
+    },
+    "titulo": "teste",
+    "notificado1d": true
+  },
+  {
+    "id": "41024604-c38d-4640-907e-2373c93be050",
+    "data": "26/09/2025",
+    "sala": "Sala Grande",
+    "horario": "08:00-10:00",
+    "responsavel": "Pablo | Sistemas",
+    "usuario": "pabloseniorr",
+    "participantes": [
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      },
+      {
+        "id": "1294358148634775592",
+        "tag": "rosinaldo02",
+        "username": "rosinaldo02"
+      }
+    ],
+    "status": "Cancelada",
+    "avatar": "https://cdn.discordapp.com/avatars/1345500989855367220/900333c0b705822df85c59ebe1666795.webp",
+    "presencas": {
+      "1294358148634775592": "Confirmada",
+      "1345500989855367220": "Confirmada"
+    },
+    "titulo": "testeeeeeee",
+    "notificado1d": true
+  },
+  {
+    "id": "e4db1dc6-327d-4a19-ac35-c67539b5c940",
+    "data": "30/09/2025",
+    "sala": "Sala Grande",
+    "horario": "10:00-11:00",
+    "responsavel": "Pablo | Sistemas",
+    "responsavelId": "1345500989855367220",
+    "usuario": "pabloseniorr",
+    "usuarioId": "1345500989855367220",
+    "participantes": [
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      }
+    ],
+    "status": "Cancelada",
+    "avatar": "https://cdn.discordapp.com/avatars/1345500989855367220/900333c0b705822df85c59ebe1666795.webp",
+    "presencas": {
+      "1345500989855367220": "Confirmada"
+    },
+    "titulo": "teste"
+  },
+  {
+    "id": "f59293bb-04f0-4c15-9dfe-1d59170efb8e",
+    "data": "25/09/2025",
+    "sala": "Sala Grande",
+    "horario": "17:00-18:00",
+    "responsavel": "Administrador",
+    "responsavelId": "405716082356256770",
+    "usuario": "tasuyuki",
+    "usuarioId": "405716082356256770",
+    "participantes": [
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      }
+    ],
+    "status": "Cancelada",
+    "avatar": "https://cdn.discordapp.com/avatars/405716082356256770/1b88feb67bd5daa2a4a5b30644599b9a.webp",
+    "presencas": {
+      "1345500989855367220": "Confirmada"
+    },
+    "titulo": "teste",
+    "notificado1h": true
+  },
+  {
+    "id": "98a677d7-f8cd-4154-811b-eefb8c1f8d39",
+    "data": "26/09/2025",
+    "sala": "Sala Menor 2",
+    "horario": "15:00-16:00",
+    "responsavel": "Caroline Prisco - Financeiro",
+    "responsavelId": "1374796004544614460",
+    "usuario": "carolineprisco",
+    "usuarioId": "1374796004544614460",
+    "participantes": [
+      {
+        "id": "1387405831229935667",
+        "tag": "alessandrafinanceiro1",
+        "username": "alessandrafinanceiro1"
+      },
+      {
+        "id": "1374808180697202778",
+        "tag": "analuizafaleiro",
+        "username": "analuizafaleiro"
+      },
+      {
+        "id": "1419678237981933738",
+        "tag": "financeirocalita_19102",
+        "username": "financeirocalita_19102"
+      },
+      {
+        "id": "1374800510829203557",
+        "tag": "ericasouzafinanceiro",
+        "username": "ericasouzafinanceiro"
+      },
+      {
+        "id": "1374804355978625214",
+        "tag": "gustavobarcelosnfe",
+        "username": "gustavobarcelosnfe"
+      },
+      {
+        "id": "1374806437229891775",
+        "tag": "ruanlopesnfe",
+        "username": "ruanlopesnfe"
+      },
+      {
+        "id": "1375123698352259137",
+        "tag": "renanfaturamento",
+        "username": "renanfaturamento"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/avatars/1374796004544614460/1f8fecfa4a296b92528d5e1400a23a9a.webp",
+    "presencas": {
+      "1387405831229935667": "Confirmada",
+      "1374806437229891775": "Confirmada",
+      "1374800510829203557": "Confirmada",
+      "1419678237981933738": "Confirmada",
+      "1374808180697202778": "Confirmada",
+      "1375123698352259137": "Confirmada",
+      "1374804355978625214": "Confirmada"
+    },
+    "titulo": "Reunião Financeiro",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "361d1e71-c2b7-40d6-b273-e608bf2f992d",
+    "data": "29/09/2025",
+    "sala": "Sala Menor 2",
+    "horario": "14:00-15:00",
+    "responsavel": "Alessandra Vargas RH",
+    "responsavelId": "1294346473311309956",
+    "usuario": "alessandra_vargas",
+    "usuarioId": "1294346473311309956",
+    "participantes": [
+      {
+        "id": "1374796004544614460",
+        "tag": "carolineprisco",
+        "username": "carolineprisco"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/avatars/1294346473311309956/29037dad4cc0727450cdc2fa05e5161d.webp",
+    "presencas": {
+      "1374796004544614460": "Confirmada"
+    },
+    "titulo": "reunião mentore - RH e Financeiro",
+    "notificado1d": true
+  },
+  {
+    "id": "f6bf8d72-d71b-4003-a0ff-3e1a3a4fcec9",
+    "data": "02/10/2025",
+    "sala": "Sala Grande",
+    "horario": "11:00-12:00",
+    "responsavel": "Pablo | Sistemas",
+    "responsavelId": "1345500989855367220",
+    "usuario": "pabloseniorr",
+    "usuarioId": "1345500989855367220",
+    "participantes": [
+      {
+        "id": "1384572666752663653",
+        "tag": "analise.de.dados",
+        "username": "analise.de.dados"
+      },
+      {
+        "id": "1374068204917227573",
+        "tag": "helenanascimentoadm",
+        "username": "helenanascimentoadm"
+      },
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      },
+      {
+        "id": "1294358148634775592",
+        "tag": "rosinaldo02",
+        "username": "rosinaldo02"
+      },
+      {
+        "id": "1374792435523125380",
+        "tag": "yurifinanceiro",
+        "username": "yurifinanceiro"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/avatars/1345500989855367220/900333c0b705822df85c59ebe1666795.webp",
+    "presencas": {
+      "1345500989855367220": "Confirmada",
+      "1384572666752663653": "Confirmada",
+      "1374792435523125380": "Confirmada"
+    },
+    "titulo": "REUNIÃO SEMANAL",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "ff88147a-ff07-46b9-b567-03ad9a255d19",
+    "data": "09/10/2025",
+    "sala": "Sala Grande",
+    "horario": "11:00-12:00",
+    "responsavel": "Pablo | Sistemas",
+    "responsavelId": "1345500989855367220",
+    "usuario": "pabloseniorr",
+    "usuarioId": "1345500989855367220",
+    "participantes": [
+      {
+        "id": "1384572666752663653",
+        "tag": "analise.de.dados",
+        "username": "analise.de.dados"
+      },
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      },
+      {
+        "id": "1294358148634775592",
+        "tag": "rosinaldo02",
+        "username": "rosinaldo02"
+      },
+      {
+        "id": "1260583577528303730",
+        "tag": "iurysilv4_62097",
+        "username": "iurysilv4_62097"
+      },
+      {
+        "id": "1374068204917227573",
+        "tag": "helenanascimentoadm",
+        "username": "helenanascimentoadm"
+      },
+      {
+        "id": "1374792435523125380",
+        "tag": "yurifinanceiro",
+        "username": "yurifinanceiro"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/avatars/1345500989855367220/900333c0b705822df85c59ebe1666795.webp",
+    "presencas": {
+      "1345500989855367220": "Confirmada",
+      "1260583577528303730": "Confirmada",
+      "1384572666752663653": "Confirmada",
+      "1374792435523125380": "Confirmada"
+    },
+    "titulo": "REUNIÃO SEMANAL",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "6a16534a-176d-4628-9a90-333784a28c85",
+    "data": "10/10/2025",
+    "sala": "Sala Grande",
+    "horario": "09:00-12:00",
+    "responsavel": "Natália Taborda | Jurídico",
+    "responsavelId": "1295431424542900284",
+    "usuario": "juridico001_88267",
+    "usuarioId": "1295431424542900284",
+    "participantes": [
+      {
+        "id": "1294369906002886779",
+        "tag": "abraao015",
+        "username": "abraao015"
+      },
+      {
+        "id": "1294363658301865995",
+        "tag": "afranioadm",
+        "username": "afranioadm"
+      },
+      {
+        "id": "1387405831229935667",
+        "tag": "alessandrafinanceiro1",
+        "username": "alessandrafinanceiro1"
+      },
+      {
+        "id": "1294346473311309956",
+        "tag": "alessandra_vargas",
+        "username": "alessandra_vargas"
+      },
+      {
+        "id": "1374450637043142668",
+        "tag": "amalialicitacoes",
+        "username": "amalialicitacoes"
+      },
+      {
+        "id": "1374808180697202778",
+        "tag": "analuizafaleiro",
+        "username": "analuizafaleiro"
+      },
+      {
+        "id": "1295359784148533249",
+        "tag": "anehosths0183",
+        "username": "anehosths0183"
+      },
+      {
+        "id": "1409968061049470989",
+        "tag": "annemonick",
+        "username": "annemonick"
+      },
+      {
+        "id": "1419678237981933738",
+        "tag": "financeirocalita_19102",
+        "username": "financeirocalita_19102"
+      },
+      {
+        "id": "1414589403065614437",
+        "tag": "caduhagg",
+        "username": "caduhagg"
+      },
+      {
+        "id": "1374796004544614460",
+        "tag": "carolineprisco",
+        "username": "carolineprisco"
+      },
+      {
+        "id": "1295383246414020652",
+        "tag": "operacional3_39817",
+        "username": "operacional3_39817"
+      },
+      {
+        "id": "1374358063175434340",
+        "tag": "cleidircompras",
+        "username": "cleidircompras"
+      },
+      {
+        "id": "1294368293896982560",
+        "tag": "daisonn0",
+        "username": "daisonn0"
+      },
+      {
+        "id": "1294343639593652257",
+        "tag": "danielydasilva",
+        "username": "danielydasilva"
+      },
+      {
+        "id": "1374103493660381245",
+        "tag": "operacionaldiego_90496",
+        "username": "operacionaldiego_90496"
+      },
+      {
+        "id": "1372657327026471084",
+        "tag": "danielydoc",
+        "username": "danielydoc"
+      },
+      {
+        "id": "1384572666752663653",
+        "tag": "analise.de.dados",
+        "username": "analise.de.dados"
+      },
+      {
+        "id": "1375076471277883545",
+        "tag": "ellemsst",
+        "username": "ellemsst"
+      },
+      {
+        "id": "1374800510829203557",
+        "tag": "ericasouzafinanceiro",
+        "username": "ericasouzafinanceiro"
+      },
+      {
+        "id": "1372292210338304181",
+        "tag": "fernanda_90661_22678",
+        "username": "fernanda_90661_22678"
+      },
+      {
+        "id": "1372999503677882519",
+        "tag": "francielirosatreinamentos_27538",
+        "username": "francielirosatreinamentos_27538"
+      },
+      {
+        "id": "1387800843046097110",
+        "tag": "licitacao4_22523",
+        "username": "licitacao4_22523"
+      },
+      {
+        "id": "1374069175533961328",
+        "tag": "giovanevieira_hagg",
+        "username": "giovanevieira_hagg"
+      },
+      {
+        "id": "1295394317333954644",
+        "tag": "compras001_75186",
+        "username": "compras001_75186"
+      },
+      {
+        "id": "1374804355978625214",
+        "tag": "gustavobarcelosnfe",
+        "username": "gustavobarcelosnfe"
+      },
+      {
+        "id": "1295435197524738048",
+        "tag": "juridico02",
+        "username": "juridico02"
+      },
+      {
+        "id": "1374068204917227573",
+        "tag": "helenanascimentoadm",
+        "username": "helenanascimentoadm"
+      },
+      {
+        "id": "1387866257373663292",
+        "tag": "juridico4_69256",
+        "username": "juridico4_69256"
+      },
+      {
+        "id": "1294382534540529685",
+        "tag": "ismaeloperacional",
+        "username": "ismaeloperacional"
+      },
+      {
+        "id": "1260583577528303730",
+        "tag": "iurysilv4_62097",
+        "username": "iurysilv4_62097"
+      },
+      {
+        "id": "1374471531656384603",
+        "tag": "joaojuridico",
+        "username": "joaojuridico"
+      },
+      {
+        "id": "1374802443304439950",
+        "tag": "josefaturamento1",
+        "username": "josefaturamento1"
+      },
+      {
+        "id": "1374456245087633531",
+        "tag": "lucaslicitacoes_59579",
+        "username": "lucaslicitacoes_59579"
+      },
+      {
+        "id": "1374350901690765352",
+        "tag": "luizcompras",
+        "username": "luizcompras"
+      },
+      {
+        "id": "1372649246842421341",
+        "tag": "maiararh",
+        "username": "maiararh"
+      },
+      {
+        "id": "1374704822481326171",
+        "tag": "michaelarquivo_88837",
+        "username": "michaelarquivo_88837"
+      },
+      {
+        "id": "1294372563606044715",
+        "tag": "sst020",
+        "username": "sst020"
+      },
+      {
+        "id": "1295431424542900284",
+        "tag": "juridico001_88267",
+        "username": "juridico001_88267"
+      },
+      {
+        "id": "1372655133921378335",
+        "tag": "nathalyestagiaria",
+        "username": "nathalyestagiaria"
+      },
+      {
+        "id": "1374458989710020766",
+        "tag": "otniellicitacoes_69435",
+        "username": "otniellicitacoes_69435"
+      },
+      {
+        "id": "1345500989855367220",
+        "tag": "pabloseniorr",
+        "username": "pabloseniorr"
+      },
+      {
+        "id": "1294343174092754960",
+        "tag": "tainarahagg",
+        "username": "tainarahagg"
+      },
+      {
+        "id": "1294372280910086235",
+        "tag": "sst030",
+        "username": "sst030"
+      },
+      {
+        "id": "1375123698352259137",
+        "tag": "renanfaturamento",
+        "username": "renanfaturamento"
+      },
+      {
+        "id": "1374452323308540015",
+        "tag": "renatinholicitacoes",
+        "username": "renatinholicitacoes"
+      },
+      {
+        "id": "1294341359439974477",
+        "tag": "camila_1505",
+        "username": "camila_1505"
+      },
+      {
+        "id": "1294358148634775592",
+        "tag": "rosinaldo02",
+        "username": "rosinaldo02"
+      },
+      {
+        "id": "1374806437229891775",
+        "tag": "ruanlopesnfe",
+        "username": "ruanlopesnfe"
+      },
+      {
+        "id": "1414592849709633706",
+        "tag": "seniltonhagg",
+        "username": "seniltonhagg"
+      },
+      {
+        "id": "1294345260977361026",
+        "tag": "stefanehagg_78336",
+        "username": "stefanehagg_78336"
+      },
+      {
+        "id": "1414684299130568745",
+        "tag": "haggrecepcao",
+        "username": "haggrecepcao"
+      },
+      {
+        "id": "1374792435523125380",
+        "tag": "yurifinanceiro",
+        "username": "yurifinanceiro"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/avatars/1295431424542900284/dff72a4c23d4b7a527da5e2381b4ca6d.webp",
+    "presencas": {
+      "1295431424542900284": "Confirmada",
+      "1374802443304439950": "Confirmada",
+      "1345500989855367220": "Confirmada",
+      "1387800843046097110": "Confirmada",
+      "1295435197524738048": "Confirmada",
+      "1294341359439974477": "Confirmada",
+      "1294343639593652257": "Confirmada",
+      "1294345260977361026": "Confirmada",
+      "1294343174092754960": "Confirmada",
+      "1387405831229935667": "Confirmada",
+      "1374800510829203557": "Confirmada",
+      "1387866257373663292": "Confirmada",
+      "1375123698352259137": "Confirmada",
+      "1372999503677882519": "Confirmada",
+      "1294372563606044715": "Confirmada",
+      "1374458989710020766": "Confirmada",
+      "1374456245087633531": "Confirmada",
+      "1375076471277883545": "Confirmada",
+      "1414592849709633706": "Confirmada",
+      "1294372280910086235": "Confirmada",
+      "1294369906002886779": "Confirmada",
+      "1372655133921378335": "Confirmada",
+      "1294368293896982560": "Confirmada",
+      "1294346473311309956": "Confirmada",
+      "1295359784148533249": "Confirmada",
+      "1260583577528303730": "Confirmada",
+      "1294358148634775592": "Confirmada",
+      "1372292210338304181": "Confirmada",
+      "1374806437229891775": "Confirmada",
+      "1374471531656384603": "Confirmada",
+      "1295394317333954644": "Confirmada"
+    },
+    "titulo": "TREINAMENTO GLAUCO",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "db91d827-f826-429d-97f2-7bf293468922",
+    "data": "10/10/2025",
+    "sala": "Sala Grande",
+    "horario": "13:30-15:00",
+    "responsavel": "Natália Taborda | Jurídico",
+    "responsavelId": "1295431424542900284",
+    "usuario": "juridico001_88267",
+    "usuarioId": "1295431424542900284",
+    "participantes": [
+      {
+        "id": "1372292210338304181",
+        "tag": "fernanda_90661_22678",
+        "username": "fernanda_90661_22678"
+      },
+      {
+        "id": "1372999503677882519",
+        "tag": "francielirosatreinamentos_27538",
+        "username": "francielirosatreinamentos_27538"
+      },
+      {
+        "id": "1295435197524738048",
+        "tag": "juridico02",
+        "username": "juridico02"
+      },
+      {
+        "id": "1374068204917227573",
+        "tag": "helenanascimentoadm",
+        "username": "helenanascimentoadm"
+      },
+      {
+        "id": "1295431424542900284",
+        "tag": "juridico001_88267",
+        "username": "juridico001_88267"
+      },
+      {
+        "id": "1294358148634775592",
+        "tag": "rosinaldo02",
+        "username": "rosinaldo02"
+      },
+      {
+        "id": "1380190554700386395",
+        "tag": "victorabouhatem_63511",
+        "username": "victorabouhatem_63511"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/avatars/1295431424542900284/dff72a4c23d4b7a527da5e2381b4ca6d.webp",
+    "presencas": {
+      "1295435197524738048": "Confirmada",
+      "1295431424542900284": "Confirmada",
+      "1380190554700386395": "Confirmada",
+      "1372999503677882519": "Confirmada",
+      "1294358148634775592": "Confirmada",
+      "1372292210338304181": "Reprovada"
+    },
+    "titulo": "REUNIÃO COMITÊ DE ÉTICA",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "20a14aae-acaa-407c-bacd-8d41c248e697",
+    "data": "10/10/2025",
+    "sala": "Sala Grande",
+    "horario": "15:00-16:30",
+    "responsavel": "Natália Taborda | Jurídico",
+    "responsavelId": "1295431424542900284",
+    "usuario": "juridico001_88267",
+    "usuarioId": "1295431424542900284",
+    "participantes": [
+      {
+        "id": "1372292210338304181",
+        "tag": "fernanda_90661_22678",
+        "username": "fernanda_90661_22678"
+      },
+      {
+        "id": "1295435197524738048",
+        "tag": "juridico02",
+        "username": "juridico02"
+      },
+      {
+        "id": "1374068204917227573",
+        "tag": "helenanascimentoadm",
+        "username": "helenanascimentoadm"
+      },
+      {
+        "id": "1295431424542900284",
+        "tag": "juridico001_88267",
+        "username": "juridico001_88267"
+      },
+      {
+        "id": "1380190554700386395",
+        "tag": "victorabouhatem_63511",
+        "username": "victorabouhatem_63511"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/avatars/1295431424542900284/dff72a4c23d4b7a527da5e2381b4ca6d.webp",
+    "presencas": {
+      "1295431424542900284": "Confirmada",
+      "1295435197524738048": "Confirmada",
+      "1380190554700386395": "Confirmada",
+      "1372292210338304181": "Confirmada"
+    },
+    "titulo": "Reunião Reclamatórias Trabalhistas",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "9597125c-0d58-414e-b5c6-a0d0da53780a",
+    "data": "09/10/2025",
+    "sala": "Sala Menor",
+    "horario": "15:00-17:00",
+    "responsavel": "Caroline Prisco - Financeiro",
+    "responsavelId": "1374796004544614460",
+    "usuario": "carolineprisco",
+    "usuarioId": "1374796004544614460",
+    "participantes": [],
+    "status": "Cancelada",
+    "avatar": "https://cdn.discordapp.com/avatars/1374796004544614460/1f8fecfa4a296b92528d5e1400a23a9a.webp",
+    "presencas": {},
+    "titulo": "Reunião Financeiro"
+  },
+  {
+    "id": "c4c2adf2-4f0a-40cf-9e7e-ddaa213fd3c6",
+    "data": "09/10/2025",
+    "sala": "Sala Grande",
+    "horario": "14:00-16:00",
+    "responsavel": "Pablo | Sistemas",
+    "responsavelId": "1345500989855367220",
+    "usuario": "pabloseniorr",
+    "usuarioId": "1345500989855367220",
+    "participantes": [
+      {
+        "id": "1374358063175434340",
+        "tag": "cleidircompras",
+        "username": "cleidircompras"
+      },
+      {
+        "id": "1387800843046097110",
+        "tag": "licitacao4_22523",
+        "username": "licitacao4_22523"
+      },
+      {
+        "id": "1294358148634775592",
+        "tag": "rosinaldo02",
+        "username": "rosinaldo02"
+      },
+      {
+        "id": "1374350901690765352",
+        "tag": "luizcompras",
+        "username": "luizcompras"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/avatars/1345500989855367220/900333c0b705822df85c59ebe1666795.webp",
+    "presencas": {
+      "1294358148634775592": "Confirmada",
+      "1387800843046097110": "Confirmada"
+    },
+    "titulo": "Reunião Programa 5S Sistema de compras",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "1472ed58-d69a-444e-8f2a-fed1e1295041",
+    "data": "10/10/2025",
+    "sala": "Sala Menor 2",
+    "horario": "14:00-16:00",
+    "responsavel": "Caroline Prisco - Financeiro",
+    "responsavelId": "1374796004544614460",
+    "usuario": "carolineprisco",
+    "usuarioId": "1374796004544614460",
+    "participantes": [],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/avatars/1374796004544614460/1f8fecfa4a296b92528d5e1400a23a9a.webp",
+    "presencas": {},
+    "titulo": "REUNIÃO FINANCEIRO"
+  },
+  {
+    "id": "d1fdc05f-68d0-4857-b3bd-61cbd2fb6196",
+    "data": "15/10/2025",
+    "sala": "Sala Menor",
+    "horario": "13:30-14:30",
+    "responsavel": "Gustavo Barcelos - Financeiro",
+    "responsavelId": "1374804355978625214",
+    "usuario": "gustavobarcelosnfe",
+    "usuarioId": "1374804355978625214",
+    "participantes": [
+      {
+        "id": "1372292210338304181",
+        "tag": "fernanda_90661_22678",
+        "username": "fernanda_90661_22678"
+      },
+      {
+        "id": "1374796004544614460",
+        "tag": "carolineprisco",
+        "username": "carolineprisco"
+      },
+      {
+        "id": "1295435197524738048",
+        "tag": "juridico02",
+        "username": "juridico02"
+      },
+      {
+        "id": "1374804355978625214",
+        "tag": "gustavobarcelosnfe",
+        "username": "gustavobarcelosnfe"
+      },
+      {
+        "id": "1295431424542900284",
+        "tag": "juridico001_88267",
+        "username": "juridico001_88267"
+      },
+      {
+        "id": "1374792435523125380",
+        "tag": "yurifinanceiro",
+        "username": "yurifinanceiro"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/embed/avatars/1.png",
+    "presencas": {
+      "1374804355978625214": "Confirmada",
+      "1295431424542900284": "Confirmada",
+      "1295435197524738048": "Confirmada",
+      "1374796004544614460": "Confirmada",
+      "1372292210338304181": "Confirmada"
+    },
+    "titulo": "faturamento/juridico",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "6a6a6b64-eaeb-41e1-8141-dd50cd375a44",
+    "data": "29/10/2025",
+    "sala": "Sala Menor",
+    "horario": "09:00-11:00",
+    "responsavel": "Daison Operacional",
+    "responsavelId": "1294368293896982560",
+    "usuario": "daisonn0",
+    "usuarioId": "1294368293896982560",
+    "participantes": [
+      {
+        "id": "1294363658301865995",
+        "tag": "afranioadm",
+        "username": "afranioadm"
+      },
+      {
+        "id": "1374804355978625214",
+        "tag": "gustavobarcelosnfe",
+        "username": "gustavobarcelosnfe"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/avatars/1294368293896982560/3427d3037674a1fbfe1ccbc0853c1d51.webp",
+    "presencas": {
+      "1374804355978625214": "Confirmada"
+    },
+    "titulo": "reunião operacional",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "306d7db4-47f8-40d8-bf6a-0363b25462e1",
+    "data": "30/10/2025",
+    "sala": "Sala Grande",
+    "horario": "10:00-16:00",
+    "responsavel": "Francieli Rosa - Treinamentos",
+    "responsavelId": "1372999503677882519",
+    "usuario": "francielirosatreinamentos_27538",
+    "usuarioId": "1372999503677882519",
+    "participantes": [
+      {
+        "id": "1372999503677882519",
+        "tag": "francielirosatreinamentos_27538",
+        "username": "francielirosatreinamentos_27538"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/avatars/1372999503677882519/0fe50e8820fbc6c09a5777fe133d05f0.webp",
+    "presencas": {
+      "1372999503677882519": "Confirmada"
+    },
+    "titulo": "Seleção de jovens aprendiz",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "6c26fcc0-aab9-4a6b-8b57-01ca193cf858",
+    "data": "07/11/2025",
+    "sala": "Sala Grande",
+    "horario": "14:00-16:00",
+    "responsavel": "Caroline Prisco - Financeiro",
+    "responsavelId": "1374796004544614460",
+    "usuario": "carolineprisco",
+    "usuarioId": "1374796004544614460",
+    "participantes": [
+      {
+        "id": "1419678237981933738",
+        "tag": "financeirocalita_19102",
+        "username": "financeirocalita_19102"
+      },
+      {
+        "id": "1374796004544614460",
+        "tag": "carolineprisco",
+        "username": "carolineprisco"
+      },
+      {
+        "id": "1374800510829203557",
+        "tag": "ericasouzafinanceiro",
+        "username": "ericasouzafinanceiro"
+      },
+      {
+        "id": "1384572666752663653",
+        "tag": "analise.de.dados",
+        "username": "analise.de.dados"
+      },
+      {
+        "id": "1374792435523125380",
+        "tag": "yurifinanceiro",
+        "username": "yurifinanceiro"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/avatars/1374796004544614460/1f8fecfa4a296b92528d5e1400a23a9a.webp",
+    "presencas": {
+      "1384572666752663653": "Confirmada",
+      "1419678237981933738": "Confirmada"
+    },
+    "titulo": "SICREDI",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "8c6e991f-925b-442c-84e4-53fd1533c3b2",
+    "data": "11/11/2025",
+    "sala": "Sala Menor 2",
+    "horario": "10:00-11:00",
+    "responsavel": "Cassio  Operacional",
+    "responsavelId": "1295383246414020652",
+    "usuario": "operacional3_39817",
+    "usuarioId": "1295383246414020652",
+    "participantes": [
+      {
+        "id": "1374804355978625214",
+        "tag": "gustavobarcelosnfe",
+        "username": "gustavobarcelosnfe"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/avatars/1295383246414020652/2246e8aa3498d3b3dd6d1183a062f0d8.webp",
+    "presencas": {},
+    "titulo": "Reunião fiscal do novo contrato",
+    "notificado1h": true
+  },
+  {
+    "id": "2eecd65c-b4b2-405a-95a3-65f31b29d6aa",
+    "data": "14/11/2025",
+    "sala": "Sala Menor 2",
+    "horario": "14:00-17:00",
+    "responsavel": "Caroline Prisco - Financeiro",
+    "responsavelId": "1374796004544614460",
+    "usuario": "carolineprisco",
+    "usuarioId": "1374796004544614460",
+    "participantes": [
+      {
+        "id": "1419678237981933738",
+        "tag": "financeirocalita_19102",
+        "username": "financeirocalita_19102"
+      },
+      {
+        "id": "1436389569124892823",
+        "tag": "financeirosn_10573",
+        "username": "financeirosn_10573"
+      },
+      {
+        "id": "1374808180697202778",
+        "tag": "analuizafaleiro",
+        "username": "analuizafaleiro"
+      },
+      {
+        "id": "1375123698352259137",
+        "tag": "renanfaturamento",
+        "username": "renanfaturamento"
+      },
+      {
+        "id": "1374806437229891775",
+        "tag": "ruanlopesnfe",
+        "username": "ruanlopesnfe"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/avatars/1374796004544614460/1f8fecfa4a296b92528d5e1400a23a9a.webp",
+    "presencas": {
+      "1374806437229891775": "Confirmada",
+      "1419678237981933738": "Confirmada",
+      "1375123698352259137": "Confirmada",
+      "1436389569124892823": "Confirmada"
+    },
+    "titulo": "REUNIÃO FINANCEIRO",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "c9be0179-34c8-4f50-ac9a-95e3944ee87f",
+    "data": "19/11/2025",
+    "sala": "Sala Grande",
+    "horario": "14:00-16:00",
+    "responsavel": "Caroline Prisco - Financeiro",
+    "responsavelId": "1374796004544614460",
+    "usuario": "carolineprisco",
+    "usuarioId": "1374796004544614460",
+    "participantes": [
+      {
+        "id": "1419678237981933738",
+        "tag": "financeirocalita_19102",
+        "username": "financeirocalita_19102"
+      },
+      {
+        "id": "1374800510829203557",
+        "tag": "ericasouzafinanceiro",
+        "username": "ericasouzafinanceiro"
+      },
+      {
+        "id": "1384572666752663653",
+        "tag": "analise.de.dados",
+        "username": "analise.de.dados"
+      },
+      {
+        "id": "1375123698352259137",
+        "tag": "renanfaturamento",
+        "username": "renanfaturamento"
+      },
+      {
+        "id": "1260583577528303730",
+        "tag": "iurysilv4_62097",
+        "username": "iurysilv4_62097"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/avatars/1374796004544614460/1f8fecfa4a296b92528d5e1400a23a9a.webp",
+    "presencas": {
+      "1374800510829203557": "Confirmada",
+      "1375123698352259137": "Confirmada",
+      "1384572666752663653": "Confirmada",
+      "1419678237981933738": "Confirmada"
+    },
+    "titulo": "REUNIÃO SICREDI",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "35280edd-7434-450d-9f30-c091d438697b",
+    "data": "23/12/2025",
+    "sala": "Sala Menor",
+    "horario": "08:30-17:00",
+    "responsavel": "Alessandra Vargas RH",
+    "responsavelId": "1294346473311309956",
+    "usuario": "alessandra_vargas",
+    "usuarioId": "1294346473311309956",
+    "participantes": [
+      {
+        "id": "1294346473311309956",
+        "tag": "alessandra_vargas",
+        "username": "alessandra_vargas"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/avatars/1294346473311309956/637cdd7286bd57da8e8dc523fa76912b.webp",
+    "presencas": {
+      "1294346473311309956": "Confirmada"
+    },
+    "titulo": "Treinamento Senior Alessandra",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "0d7b46c8-35a6-4be1-a2c7-9a2a61222ee9",
+    "data": "22/12/2025",
+    "sala": "Sala Menor",
+    "horario": "13:00-17:00",
+    "responsavel": "Alessandra Vargas RH",
+    "responsavelId": "1294346473311309956",
+    "usuario": "alessandra_vargas",
+    "usuarioId": "1294346473311309956",
+    "participantes": [],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/avatars/1294346473311309956/637cdd7286bd57da8e8dc523fa76912b.webp",
+    "presencas": {},
+    "titulo": "Treinamento Senior Alessandra RH"
+  },
+  {
+    "id": "82d875c5-f177-460e-9e83-ad82de4e10c6",
+    "data": "22/12/2025",
+    "sala": "Sala Menor 2",
+    "horario": "13:00-17:00",
+    "responsavel": "Alessandra Vargas RH",
+    "responsavelId": "1294346473311309956",
+    "usuario": "alessandra_vargas",
+    "usuarioId": "1294346473311309956",
+    "participantes": [
+      {
+        "id": "1294346473311309956",
+        "tag": "alessandra_vargas",
+        "username": "alessandra_vargas"
+      }
+    ],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/avatars/1294346473311309956/637cdd7286bd57da8e8dc523fa76912b.webp",
+    "presencas": {
+      "1294346473311309956": "Confirmada"
+    },
+    "titulo": "Treinamento Senior Alessandra RH",
+    "notificado1d": true,
+    "notificado1h": true
+  },
+  {
+    "id": "a59d2939-6296-46a6-ab17-e037277d87e5",
+    "data": "14/01/2026",
+    "sala": "Sala Menor 2",
+    "horario": "09:00-11:00",
+    "responsavel": "Alessandra Vargas RH",
+    "responsavelId": "1294346473311309956",
+    "usuario": "alessandra_vargas",
+    "usuarioId": "1294346473311309956",
+    "participantes": [],
+    "status": "Agendada",
+    "avatar": "https://cdn.discordapp.com/avatars/1294346473311309956/637cdd7286bd57da8e8dc523fa76912b.webp",
+    "presencas": {},
+    "titulo": "reuniao senior"
+  }
+]

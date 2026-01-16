@@ -1,0 +1,22 @@
+{
+  "name": "meu-bot-discord",
+  "version": "1.0.0",
+  "description": "Bot Discord de lembretes, tarefas e avaliações",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "pablotasuyuki",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dotenv": "^16.6.1",
+    "exceljs": "^4.4.0",
+    "node-cron": "^4.2.1",
+    "nodemailer": "^7.0.6",
+    "uuid": "^11.1.0",
+    "xlsx": "^0.18.5"
+  },
+  "keywords": []
+}
