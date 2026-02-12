@@ -1001,8 +1001,8 @@ async function gerarBufferExcelCompleto() {
 const transporter = nodemailer.createTransport({
   service: 'gmail',
   auth: {
-    user: 'enviaremailshagg@gmail.com',
-    pass: 'zqqq ehuc nryd wlqw'
+    user: '?',
+    pass: '?'
   }
 });
 
